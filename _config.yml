@@ -22,12 +22,12 @@ repository               : "namigabbasov/namigabbasov.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Namig Abbasov"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  location         : "Arizona, USA"
+  employer         : "Arizona State University"
+  uri              : "https://namigabbasov.github.io"
   email            : "namigaabbasov@gmail.com" 
 
   # Academic websites
@@ -36,7 +36,6 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-5416-1294"
   semantic         : # URL
-  pubmed           : ""
   researchgate     : # URL
   scopus           : # URL
 
