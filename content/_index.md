@@ -32,10 +32,21 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
-        My research focuses on conflict and peace with an interdisciplinary emphasis on climate change and sustainability. I utilize both conventional machine learning methods and Transformer-based AI models, to predict civil conflict and analyze peace agreements. My current key projects include the use of LLMs for qualitative research, a survival analysis of ceasefires and war recurrence, survival-based machine learning approach to predicting civil war recurrence, and research project using LLMs such as BERT and T5 to predict the success of peace agreements based on their text. In my book project, I develop custom Transformer-based language models, including fine-tuned versions of BERT and RoBERTa, to analyze homophobic political and media discourse in authoritarian regimes. My contributions have been recognized with the Open Science Foundation Award. Methodologically, I aim to combine traditional statistical approaches with conventional NLP, classic machine learning, and Transformer-based AI models. My articles have been published in Political Research Quarterly, Foreign Policy Analysis, Problems of Post-Communism, Nations and Nationalism, Asia-Europe Journal, Caucasus Survey, and Middle East Policy.
+        My research focuses on conflict and peace, with an interdisciplinary emphasis on climate change and sustainability. I integrate conventional machine learning techniques and Transformer-based AI models to predict civil conflict and analyze peace agreements.
+        
+        My current projects include:
+          - Leveraging large language models (LLMs) for qualitative research.
+          - Exploring generative AI adoption in academia.
+          - Conducting survival analysis of ceasefires and war recurrence.
+          - Applying survival-based machine learning approaches to forecast civil war recurrence.
+          - Using models like BERT and T5 to predict the success of peace agreements based on their textual content.
+          - As part of my book project, I develop custom Transformer-based language models—including fine-tuned versions of BERT and RoBERTa—to analyze homophobic political and media discourse in authoritarian regimes.
+        Methodologically, I combine traditional statistical methods with classical NLP, machine learning, and advanced Transformer-based AI approaches. My contributions have been recognized with the Open Science Foundation Award.
+        
+        My research has been published in Political Research Quarterly, Foreign Policy Analysis, Problems of Post-Communism, Nations and Nationalism, Asia-Europe Journal, Caucasus Survey, and Middle East Policy.
         
     design:
       columns: '1'
