@@ -13,9 +13,13 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'Namig Abbasov’s professional website showcasing research, publications, and teaching.'
+    org_name: 'Namig Abbasov'
+    description: 'Professional website of Namig Abbasov, showcasing research, publications, teaching, and projects in AI and data science.'
     twitter: 'namigaabbasov'
+    same_as:
+      - "https://scholar.google.com/citations?user=o6I7ydsAAAAJ&hl=en"
+      - "https://orcid.org/my-orcid?orcid=0000-0002-5416-1294"
+      - "https://www.linkedin.com/in/namigabbasov/"
   analytics:
     google_analytics: ''
     baidu_tongji: ''
