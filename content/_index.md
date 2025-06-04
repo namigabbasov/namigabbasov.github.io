@@ -35,11 +35,8 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My research focuses on conflict and peace with an interdisciplinary emphasis on climate change and sustainability. I utilize both conventional machine learning methods and Transformer-based AI models, to predict civil conflict and analyze peace agreements. My current key projects include the use of LLMs for qualitative research, a survival analysis of ceasefires and war recurrence, survival-based machine learning approach to predicting civil war recurrence, and research project using LLMs such as BERT and T5 to predict the success of peace agreements based on their text. In my book project, I develop custom Transformer-based language models, including fine-tuned versions of BERT and RoBERTa, to analyze homophobic political and media discourse in authoritarian regimes. My contributions have been recognized with the Open Science Foundation Award. Methodologically, I aim to combine traditional statistical approaches with conventional NLP, classic machine learning, and Transformer-based AI models. My articles have been published in Political Research Quarterly, Foreign Policy Analysis, Problems of Post-Communism, Nations and Nationalism, Asia-Europe Journal, Caucasus Survey, and Middle East Policy.
         
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
