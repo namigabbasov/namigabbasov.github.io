@@ -6,12 +6,12 @@ title: 吳健雄
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Namig
+last_name: Abbasov
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🔬️️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Data Scientist/AI Enthusiast
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: Arizona State University
     url: https://openai.com/
 
 # Social network links
@@ -35,77 +35,91 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/namigabbasov
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/namigabbasov/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=o6I7ydsAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0000-0002-5416-1294
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - artificial intelligence, machine learning, deep learning
+  - natural language processing and text analysis
+  - large language models 
+  - network analysis
+  - causal inference
+  - conflict research 
+
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Political Science 
+    institution: Arizona State University University
+    date_start: 2017-08-15
+    date_end: 2022-12-14
+    
+  - area: MS Data Science
+    institution: University of Arizona
+    date_start: 2024-01-01
+    date_end: 2025-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 4/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - INFO 502 Data Ethics
+      - INFO 523 Data Mining/Discovery
+      - INFO 526 Data Analysis and Visualization
+      - INFO 511 Foundations of Data Science
+      - INFO 555 Applied NLP
+      - INFO 557 Neural Networks
+      
+  - area: BA European Studies and Economic Sciences
+    institution: Qafqaz University
+    date_start: 2008-09-15
+    date_end: 2012-05-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 99/100
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Microeconomics 
+      - Macroeconomics 
+      - International Economics
+      - Informatics 1
+      - Informatics 2
+      - Research Methods 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Data Scientist
+    company_name: Arizona State University
+    company_url: 'https://search.asu.edu/profile/2927116'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-08-14
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Consulted faculty on research projects involving experiments, GenAI, computer vision, and NLP. 
+      - Collaborated with faculty and researchers to integrate AI tools and methodologies.
+      - Instructed workshops on geAI, LLMs, NLP, classic ML, network analysis, Data Carpentry. 
+      - Led 10+ projects using classic and modern DL (e.g., CNNs, ViTs, RoBERTa, T5, FinBERT, BART).
+      - Mentored 20+ students in their data science projects, resulting in conference presentations. 
+      - Presented research findings at 6 conferences on AI, digital humanities, and conflict. 
+      - Co-organized and served as a judge in various data science hackathons.
+    
+  - position: Research and Teaching Associate 
+    company_name: Arizona State University
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2017-08-08
+    date_end: 2022-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Conducted advanced research using both NHST and predictive modeling.
+      - Collected and preprocessed large-scale data and performed advanced regression analysis. 
+      - Instructed courses in statistics, research methods, and hands-on training in R and Python 
+      - Mentored students on thesis design, data analysis, and academic writing.
+      - Presented research findings at academic conferences
+      - Published peer-reviewed articles using machine learning, advanced regression, qual methods
+      - Received first place award for lab experiments on climate change
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -144,9 +158,9 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: Turkish
+    percent: 90
+  - name: Russian
     percent: 25
 
 # Awards.
@@ -183,4 +197,4 @@ awards:
 
 ## About Me
 
-Welcome to my professional website! I am a Digital Humanities Analyst at the Data Science and Analytics Unit of Arizona State University (ASU). I hold a Ph.D. in Political Science from ASU’s School of Politics and Global Studies, M.A. in International Relations and Dialogue Studies from Keele University, UK, and a B.A. in Regional Studies and Economic Sciences from Baku Engineering University (former Qafqaz University) in Azerbaijan. My research focuses on conflict and peace, state repression, authoritarian politics, and democratization, with an interdisciplinary emphasis on environmental politics, climate change, sustainability, and their intersections with conflict. I utilize both conventional machine learning methods and Transformer-based AI models, to predict civil conflict and analyze peace agreements. My current key projects include a survival analysis of ceasefires and war recurrence, survival-based machine learning approach to predicting civil war recurrence, and research using LLMs such as BERT and T5 to classify and predict peace agreement outcomes. In my book project, I develop custom Transformer-based language models, including fine-tuned versions of BERT and RoBERTa, to analyze homophobic political and media discourse in anti-Western authoritarian regimes. My contributions have been recognized with the Open Science Foundation Award. Methodologically, I aim to combine traditional statistical approaches with conventional machine learning and new AI models to enhance predictive accuracy and bridge the gap between political science and policymaking. I am particularly passionate about leveraging these tools to transform political science research into actionable insights that address real-world challenges. My articles have been published in Foreign Policy Analysis, Problems of Post-Communism, Nations and Nationalism, Asia-Europe Journal, Caucasus Survey, and Middle East Policy.
+Welcome to my professional website! I am a Digital Humanities Analyst/Data Scientist at the Data Science and Analytics Unit of Arizona State University (ASU). I hold a PhD in Political Science from ASU’s School of Politics and Global Studies, M.A. in International Relations and Dialogue Studies from Keele University, UK, and a B.A. in Regional Studies and Economic Sciences from Baku Engineering University (former Qafqaz University) in Azerbaijan. My research focuses on conflict and peace with an interdisciplinary emphasis on climate change and sustainability. I utilize both conventional machine learning methods and Transformer-based AI models, to predict civil conflict and analyze peace agreements. My current key projects include the use of LLMs for qualitative research, a survival analysis of ceasefires and war recurrence, survival-based machine learning approach to predicting civil war recurrence, and research project using LLMs such as BERT and T5 to predict the success of peace agreements based on their text. In my book project, I develop custom Transformer-based language models, including fine-tuned versions of BERT and RoBERTa, to analyze homophobic political and media discourse in authoritarian regimes. My contributions have been recognized with the Open Science Foundation Award. Methodologically, I aim to combine traditional statistical approaches with conventional NLP, classic machine learning, and Transformer-based AI models. My articles have been published in Political Research Quarterly, Foreign Policy Analysis, Problems of Post-Communism, Nations and Nationalism, Asia-Europe Journal, Caucasus Survey, and Middle East Policy.
