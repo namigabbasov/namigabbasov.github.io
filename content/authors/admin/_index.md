@@ -3,7 +3,7 @@
 title: Namig Abbasov
 
 # Name pronunciation (optional)
-name_pronunciation: Naa-mig
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Namig
