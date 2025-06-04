@@ -37,6 +37,10 @@ sections:
       text: |-
         My research focuses on conflict and peace, with an interdisciplinary emphasis on climate change and sustainability. I integrate conventional machine learning techniques and Transformer-based AI models to predict civil conflict and analyze peace agreements.
         
+        Methodologically, I combine traditional statistical methods with classical NLP, machine learning, and advanced Transformer-based AI approaches. My contributions have been recognized with the Open Science Foundation Award.
+        
+        My research has been published in Political Research Quarterly, Foreign Policy Analysis, Problems of Post-Communism, Nations and Nationalism, Asia-Europe Journal, Caucasus Survey, and Middle East Policy.
+        
         My current projects include:
           - Leveraging large language models (LLMs) for qualitative research.
           - Exploring generative AI adoption in academia.
@@ -44,9 +48,7 @@ sections:
           - Applying survival-based machine learning approaches to forecast civil war recurrence.
           - Using models like BERT and T5 to predict the success of peace agreements based on their textual content.
           - As part of my book project, I develop custom Transformer-based language models—including fine-tuned versions of BERT and RoBERTa—to analyze homophobic political and media discourse in authoritarian regimes.
-        Methodologically, I combine traditional statistical methods with classical NLP, machine learning, and advanced Transformer-based AI approaches. My contributions have been recognized with the Open Science Foundation Award.
         
-        My research has been published in Political Research Quarterly, Foreign Policy Analysis, Problems of Post-Communism, Nations and Nationalism, Asia-Europe Journal, Caucasus Survey, and Middle East Policy.
         
     design:
       columns: '1'
