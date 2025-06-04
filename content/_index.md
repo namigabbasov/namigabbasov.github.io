@@ -47,7 +47,7 @@ sections:
           - Conducting survival analysis of ceasefires and war recurrence.
           - Applying survival-based machine learning approaches to forecast civil war recurrence.
           - Using models like BERT and T5 to predict the success of peace agreements based on their textual content.
-          - As part of my book project, I develop custom Transformer-based language models—including fine-tuned versions of BERT and RoBERTa—to analyze homophobic political and media discourse in authoritarian regimes.
+          - As part of my book project, I develop custom Transformer-based language models, including fine-tuned versions of BERT and RoBERTa, to analyze homophobic political and media discourse in authoritarian regimes.
         
         
     design:
