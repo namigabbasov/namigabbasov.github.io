@@ -25,16 +25,16 @@ role: Data Scientist/AI Enthusiast
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Arizona State University
-    url: https://openai.com/
+    url: https://search.asu.edu/profile/2927116
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'namigaabbasov@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/namigaabbasov
   - icon: brands/github
     url: https://github.com/namigabbasov
   - icon: brands/linkedin
@@ -45,8 +45,9 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0000-0002-5416-1294
 
 interests:
-  - artificial intelligence, machine learning, deep learning
-  - natural language processing and text analysis
+  - artificial intelligence
+  - deep learning
+  - natural language processing
   - large language models 
   - network analysis
   - causal inference
@@ -55,9 +56,11 @@ interests:
 
 education:
   - area: PhD Political Science 
-    institution: Arizona State University University
+    institution: Arizona State University
     date_start: 2017-08-15
     date_end: 2022-12-14
+    summary: |
+      GPA: 3.74/4.0
     
   - area: MS Data Science
     institution: University of Arizona
@@ -97,12 +100,12 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - Consulted faculty on research projects involving experiments, GenAI, computer vision, and NLP. 
-      - Collaborated with faculty and researchers to integrate AI tools and methodologies.
-      - Instructed workshops on geAI, LLMs, NLP, classic ML, network analysis, Data Carpentry. 
-      - Led 10+ projects using classic and modern DL (e.g., CNNs, ViTs, RoBERTa, T5, FinBERT, BART).
-      - Mentored 20+ students in their data science projects, resulting in conference presentations. 
-      - Presented research findings at 6 conferences on AI, digital humanities, and conflict. 
+      - Consulted faculty on GenAI, computer vision, and NLP projects. 
+      - Collaborated with faculty and researchers to integrate AI tools.
+      - Instructed workshops on geAI, LLMs, NLP, classic ML, network analysis. 
+      - Led 10+ projects using classic ML and modern DL
+      - Mentored 20+ students in data science projects and conference presentations. 
+      - Presented research findings at 6 conferences on AI, digital humanities. 
       - Co-organized and served as a judge in various data science hackathons.
     
   - position: Research and Teaching Associate 
@@ -114,11 +117,11 @@ work:
     summary: |
       Responsibilities include:
       - Conducted advanced research using both NHST and predictive modeling.
-      - Collected and preprocessed large-scale data and performed advanced regression analysis. 
-      - Instructed courses in statistics, research methods, and hands-on training in R and Python 
+      - Collected and large-scale data and performed advanced regression analysis. 
+      - Instructed courses in statistics, research methods, and R and Python 
       - Mentored students on thesis design, data analysis, and academic writing.
       - Presented research findings at academic conferences
-      - Published peer-reviewed articles using machine learning, advanced regression, qual methods
+      - Published peer-reviewed articles using ML, advanced regression, qual methods
       - Received first place award for lab experiments on climate change
 
 # Skills
