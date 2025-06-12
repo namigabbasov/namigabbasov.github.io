@@ -158,13 +158,6 @@ skills:
         percent: 80
         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Turkish
-    percent: 90
-  - name: Russian
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
