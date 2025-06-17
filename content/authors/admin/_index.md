@@ -191,7 +191,7 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## About Me[WEBSITE IS UNDER CONSTRUCTION]
 
 I am a Digital Humanities Analyst and Data Scientist at the Data Science and Analytics Unit of Arizona State University (ASU). I hold a Ph.D. in Political Science from ASU’s School of Politics and Global Studies, an M.A. in International Relations and Dialogue Studies from Keele University in the UK, and a B.A. in Regional Studies and Economic Sciences from Baku Engineering University (formerly Qafqaz University) in Azerbaijan.
 
